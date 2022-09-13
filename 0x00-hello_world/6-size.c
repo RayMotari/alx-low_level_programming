@@ -4,8 +4,8 @@
  *
  * main - Prints the sizeof many var types
  *
- * 
- * Description: using the main function 
+ *
+ * Description: using the main function
  * Return: Always 0 (Success)
  *
  */
